@@ -1,10 +1,10 @@
 # embedded-kit
 
 |  <center>제품</center> |  <center>모델명</center> |  <center>사진</center> |  <center>가격</center> |  
-|:------|:------:|:--------:|:----:|
+|:-----:|:------:|:--------:|:----:|
 |**Micro B usb to switch** |  | <img src="/images/1.jpg"  width="35%" height="10%"> | |
-|**이더넷 케이블** | UTP.CAT6.GiGA LAN cable  | <center><img src="/images/2.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
-|**삼성PC카메라** | SPC-B800M |<center><img src="/images/3.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**Ethernet cable** | UTP.CAT6.GiGA LAN cable  | <center><img src="/images/2.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**samsung PC카메라** | SPC-B800M |<center><img src="/images/3.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
 |**카메라 모듈v2 8MP** |  |<center><img src="/images/4.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
 |**3구 멀티탭** |  |<center><img src="/images/5.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
 |**USB C charger** | allo korea Type C charger |<center><img src="/images/6.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
@@ -29,7 +29,10 @@
 |**GPIO T cobbler** |  |<center><img src="/images/26.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
 |**블루투스 스피커** | 아이존아이앤디 EZ-Q1 |<center><img src="/images/27.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
 |**Redboard** | SparkFun RedBoard Develop Kits |<center><img src="/images/28.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
-|**Redboard** | USB micro B calbe |<center><img src="/images/29.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
-|**serLCD** | SparkFUn 16x2 SerLCD - RGB |<center><img src="/images/30.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**Redboard** | USB micro B cable |<center><img src="/images/29.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**SerLCD** | SparkFUn 16x2 SerLCD - RGB |<center><img src="/images/30.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
 |**** |  |<center><img src="/images/31.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**** |  |<center><img src="/images/32.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**** |  |<center><img src="/images/33.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+
 
