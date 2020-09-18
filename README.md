@@ -10,7 +10,7 @@
 |**micro B to USB charger** | 3.4A 듀얼고속 충전기 allo UC201 |<center><img src="/images/6.jpg"  width="35%" height="10%"> </center> |*₩8,000* |
 |**USB C charger** |  |<center><img src="/images/7.jpg"  width="35%" height="10%"> </center> | |
 |**USB2.0 Cable** |  |<center><img src="/images/11.jpg"  width="35%" height="10%"> </center> |*₩700* |
-|**Micro B usb to switch** |  | <img src="/images/1.jpg"  width="35%" height="10%"> | |
+|**micro B to switch** |  | <img src="/images/1.jpg"  width="35%" height="10%"> | |
 |**USB Hub** | 이지넷유비쿼터스 NEXT-704U3 |<center><img src="/images/13.jpg"  width="35%" height="10%"> </center> |*₩12,920* |
 |**Ethernet cable** | UTP.CAT6.GiGA LAN cable  | <center><img src="/images/2.jpg"  width="35%" height="10%"> </center> |*₩2,000* |
 |**HDMI cable** |  |<center><img src="/images/8.jpg"  width="35%" height="10%"> </center> |*₩1000 미만* |
