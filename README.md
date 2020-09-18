@@ -2,30 +2,34 @@
 
 |  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
 |:--------|:--------:|--------:|
-|**cell 1x1** | <center>![title](/images/1.jpg){: width="50%" height="50%"} </center> |*cell 1x3* |
-|**cell 2x1** | <center><img src="/images/1.jpg"  width="700" height="370"> </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/1.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/2.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/3.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/4.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/5.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/6.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/7.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/8.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/9.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/10.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/11.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/12.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/13.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/14.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/15.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/16.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/17.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/18.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/19.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/20.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/21.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/22.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/23.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/24.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/25.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/26.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/27.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**cell 1x1** | <center><img src="/images/28.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**cell 2x1** | <center><img src="/images/29.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**cell 3x1** | <center><img src="/images/30.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+
