@@ -19,7 +19,7 @@
 |**Micro SD card** | 삼성EVO Plus 32gb |<center><img src="/images/18.jpg"  width="35%" height="10%"> </center> |*6000* |
 |**Micro SD card** | Sandisk Ultra 64gb |<center><img src="/images/20.jpg"  width="35%" height="10%"> </center> |*7,160* |
 |**브레드보드** |  |<center><img src="/images/19.jpg"  width="35%" height="10%"> </center> |*3,500* |
-|**이름 모름** |  |<center><img src="/images/22.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
+|**이름 모름** |  |<center><img src="/images/22.jpg"  width="35%" height="10%"> </center> |** |
 |**5V3A 라즈베리파이3 어댑터** | DZ015HL050300K |<center><img src="/images/23.jpg"  width="35%" height="10%"> </center> |*6,250* |
 |**하드웨어 보드** | RPino GOGO Plus |<center><img src="/images/24.jpg"  width="35%" height="10%"> </center> |*26,500* |
 |**TFT LCD** | E22801-AO |<center><img src="/images/25.jpg"  width="35%" height="10%"> </center> |** |
@@ -34,7 +34,6 @@
 |**DC모터** |  |<center><img src="/images/31.jpg"  width="35%" height="10%"> </center> |** |
 |**Axial Resistor** |  |<center><img src="/images/32.jpg"  width="35%" height="10%"> </center> |** |
 |**LED** |  |<center><img src="/images/33.jpg"  width="35%" height="10%"> </center> |** |
-|**Socket Jumper cable** |  |<center><img src="/images/33.jpg"  width="35%" height="10%"> </center> |** |
-
+|**Socket Jumper cable** |  |<center><img src="/images/34.jpg"  width="35%" height="10%"> </center> |** |
 
 
