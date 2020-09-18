@@ -14,7 +14,7 @@
 |**USB Hub** | 이지넷유비쿼터스 NEXT-704U3 |<center><img src="/images/13.jpg"  width="35%" height="10%"> </center> |*12,920* |
 |**Ethernet cable** | UTP.CAT6.GiGA LAN cable  | <center><img src="/images/2.jpg"  width="35%" height="10%"> </center> |*2,000* |
 |**HDMI cable** |  |<center><img src="/images/8.jpg"  width="35%" height="10%"> </center> |** |
-|**HDMI to Micro HDMI** |  |<center><img src="/images/21.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
+|**HDMI to Micro HDMI** |  |<center><img src="/images/21.jpg"  width="35%" height="10%"> </center> |** |
 |**HDMI KVM 2;1 Switch x2** | 강원전자 NETmate NM-HK02U |<center><img src="/images/14.jpg"  width="35%" height="10%"> </center> |*66,000* |
 |**Micro SD card** | 삼성EVO Plus 32gb |<center><img src="/images/18.jpg"  width="35%" height="10%"> </center> |*6000* |
 |**Micro SD card** | Sandisk Ultra 64gb |<center><img src="/images/20.jpg"  width="35%" height="10%"> </center> |*7,160* |
