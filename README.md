@@ -1,8 +1,8 @@
 # embedded-kit
 
-|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
+|  <center>제품 및 모델명</center> |  <center>사진</center> |  <center>가격</center> |
 |:--------|:--------:|--------:|
-|**cell 1x1** | <center><img src="/images/1.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
+|**5핀 스위치  Micro B usb to switch** | <center><img src="/images/1.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
 |**cell 2x1** | <center><img src="/images/2.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
 |**cell 3x1** | <center><img src="/images/3.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
 |**cell 1x1** | <center><img src="/images/4.jpg"  width="35%" height="10%"> </center> |*cell 1x3* |
