@@ -7,7 +7,7 @@
 |**라즈베리파이4 model B** |  |<center><img src="/images/17.jpg"  width="35%" height="10%"> </center> |*4gb이면 ₩72,000 2기가면 ₩50,000* |
 |**전력공급 전원기** | 강원전자 NM-P01 charger |<center><img src="/images/10.jpg"  width="35%" height="10%"> </center> |*₩4.710* |
 |**5V2A SMPS POWER-TEK ADAPTER** | SW10-05002000-EK |<center><img src="/images/12.jpg"  width="35%" height="10%"> </center> |*₩4,950* |
-|**USB C charger** | allo korea Type C charger |<center><img src="/images/6.jpg"  width="35%" height="10%"> </center> |*₩8,000* |
+|**micro B to USB charger** | allo korea Type C charger |<center><img src="/images/6.jpg"  width="35%" height="10%"> </center> |*₩8,000* |
 |**USB C charger** |  |<center><img src="/images/7.jpg"  width="35%" height="10%"> </center> | |
 |**USB2.0 Cable** |  |<center><img src="/images/11.jpg"  width="35%" height="10%"> </center> |*₩700* |
 |**Micro B usb to switch** |  | <img src="/images/1.jpg"  width="35%" height="10%"> | |
