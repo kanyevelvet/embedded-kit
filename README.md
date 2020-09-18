@@ -1,7 +1,7 @@
 # embedded-kit
 
 |  <center>제품</center> |  <center>모델명</center> |  <center>사진</center> |  <center>가격</center> |  
-|:--------|:--------:|--------:|--------:|
+|:------|:------:|:--------:|:----:|
 |**Micro B usb to switch** |  | <img src="/images/1.jpg"  width="35%" height="10%"> | |
 |**이더넷 케이블** | UTP.CAT6.GiGA LAN cable  | <center><img src="/images/2.jpg"  width="35%" height="10%"> </center> |*cell 2x3* |
 |**삼성PC카메라** | SPC-B800M |<center><img src="/images/3.jpg"  width="35%" height="10%"> </center> |*cell 3x3* |
