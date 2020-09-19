@@ -2,9 +2,9 @@
 
 |  <center>제품</center> |  <center>모델명</center> |  <center>사진</center> |  <center>가격</center> |  
 |:-----:|:------:|:--------:|:----:|
-|**라즈베리파이3 model B+** |  |<center><img src="/images/15.jpg"  width="35%" height="10%"> </center> |*₩43,000* |
-|**라즈베리파이3 model B v.1.2** |  |<center><img src="/images/16.jpg"  width="35%" height="10%"> </center> |*₩43,000* |
-|**라즈베리파이4 model B** |  |<center><img src="/images/17.jpg"  width="35%" height="10%"> </center> |*4gb이면 ₩72,000 2기가면 ₩50,000* |
+|**라즈베리파이3 model B+** | BCM2873B0 |<center><img src="/images/15.jpg"  width="35%" height="10%"> </center> |*₩43,000* |
+|**라즈베리파이3 model B v.1.2** | BCM2873B0 |<center><img src="/images/16.jpg"  width="35%" height="10%"> </center> |*₩43,000* |
+|**라즈베리파이4 model B** | BCM2711 |<center><img src="/images/17.jpg"  width="35%" height="10%"> </center> |*4gb이면 ₩72,000 2gb ₩50,000* |
 |**전력공급 전원기** | 강원전자 NM-P01 charger |<center><img src="/images/10.jpg"  width="35%" height="10%"> </center> |*₩4.710* |
 |**5V2A SMPS POWER-TEK ADAPTER** | SW10-05002000-EK |<center><img src="/images/12.jpg"  width="35%" height="10%"> </center> |*₩4,950* |
 |**micro B to USB charger** | 3.4A 듀얼고속 충전기 allo UC201 |<center><img src="/images/6.jpg"  width="35%" height="10%"> </center> |*₩8,000* |
